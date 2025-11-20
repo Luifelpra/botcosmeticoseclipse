@@ -1,0 +1,27 @@
+{
+  "name": "botcosmeticoseclipse",
+  "version": "1.0.0",
+  "description": "Eclipse Beauty Brands - Chatbot Multiplataforma",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "chatbot",
+    "eclipse-beauty",
+    "woocommerce",
+    "meta-api",
+    "atencion-cliente",
+    "cosmeticos"
+  ],
+  "author": "Eclipse Beauty Brands",
+  "license": "PROPIETARIO",
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
