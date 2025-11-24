@@ -1,5 +1,4 @@
-node_modules/
-package-lock.json
+__pycache__/
+*.pyc
 .env
-.DS_Store
-.vscode/
+catalogo.xlsx
